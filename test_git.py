@@ -5,5 +5,6 @@ import math
 
 
 
-def f():
-	pass
+def sqrt_approx(x):
+	appr = 1 - x/2
+	return appr
